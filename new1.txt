@@ -3,4 +3,5 @@ Git is free software distributed under the GPL.
 Git has a mutable index calGit has a mutable index called stage
 led stage.
 gitigititinnn
-nnnn
+nnnnkkkk
+kkkk
