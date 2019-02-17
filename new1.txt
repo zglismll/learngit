@@ -4,4 +4,4 @@ Git has a mutable index calGit has a mutable index called stage
 led stage.
 gitigititinnn
 nnnnkkkk
-kkkk
+git difficult
